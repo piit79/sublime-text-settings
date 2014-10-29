@@ -1,0 +1,8 @@
+{
+  "tab_size": 4,
+  "translate_tabs_to_spaces": true,
+  "rulers": [79],
+  "auto_complete_triggers": [{"selector": "source.python - string - comment - constant.numeric", "characters": "."}],
+  "complete_parameters": true,
+  "hide_snippets_on_completion": false,
+}
